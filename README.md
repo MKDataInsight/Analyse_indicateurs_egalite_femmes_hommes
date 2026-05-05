@@ -11,6 +11,7 @@
 
 ![Egalite](/assets/egalite-femme-homme.png)
 Je suis data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises.
+
 En tenant compte des critères d'évaluation du Ministère du Travail et des lois RGPD, j'ai automatisé le calcul de l'index d'égalité H/F à partir des données RH du cabinet pour la direction RH et le contrôleur de gestion sociale.
 
 ## Objectifs et compétences
